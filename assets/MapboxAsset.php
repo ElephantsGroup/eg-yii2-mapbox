@@ -17,6 +17,7 @@ class MapboxAsset extends AssetBundle
 	public $css = [
         'css/mapbox-gl.css',
         'css/mapbox-gl-geocoder.css',
+        'css/map.css',
 	];
     public $js = [
         'js/mapbox-gl.js',

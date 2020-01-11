@@ -1,0 +1,39 @@
+.map {
+	width: 400px;
+	height: 400px;
+	display: flex;
+}
+
+.map-switch-layer {
+	background: #fff;
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.map-switch-layer input {
+	width: auto;
+}
+
+.info {
+    display: block;
+    position: relative;
+    margin: 0px auto;
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 12px;
+    text-align: center;
+    color: #222;
+    background: #fff;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 'none';
+  text-align: right;
+  padding: 8px;
+}

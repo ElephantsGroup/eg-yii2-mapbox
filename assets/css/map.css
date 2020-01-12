@@ -4,13 +4,13 @@
 	text-align: right;
 }
 
-.map-switch-layer {
+.map-switch-mode {
 	background: #fff;
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
 }
 
-.map-switch-layer input {
+.map-switch-mode input {
 	width: auto;
 }
 
